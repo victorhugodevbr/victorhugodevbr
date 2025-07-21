@@ -1,5 +1,5 @@
 ## Hi 👋! My name is Victor Hugo
-I'm a Software Engineer from São Paulo 🌍  
+I'm a Software Engineer from São Paulo/Brasil 🌍  
 
 🔧 I specialize in:  
 - Front-end development

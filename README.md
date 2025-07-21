@@ -1,5 +1,20 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+## Hi 👋! My name is Victor Hugo
+I'm a Software Engineer from São Paulo 🌍  
 
+🔧 I specialize in:  
+- Front-end development
+- Back-end development
+- UI/UX Design  
+
+🎯 I'm passionate about building front-end solutions, writing clean code, and continuously learning new technologies.
+
+🚀 Currently working on:  
+- Rubcube
+
+📫 How to reach me:  
+- https://www.linkedin.com/in/victor-hugo-vicente-dos-santos-05a259221/
+- victorhugovicentedev@hotmail.com
+  
 ###
 
 <div align="center">
